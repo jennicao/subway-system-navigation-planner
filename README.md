@@ -5,6 +5,8 @@ A graphical user interface for navigation of any subway system using the `plotly
 Run `main.py` to get started.
 
 
+## Examples
+
 This is the map of the Vancouver SkyTrain subway system (image of subway system from Wikimedia Common).
 
 <img src="https://user-images.githubusercontent.com/73912656/149457484-0e00476b-1bf6-4146-b364-10f7ef22c069.PNG" width=650>
